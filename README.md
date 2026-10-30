@@ -5,7 +5,8 @@ biomecánicos, autenticación JWT, RBAC y exportación de datasets seudonimizado
 
 - **Stack**: Python 3.11+, FastAPI, Pydantic v2, SQLModel, PostgreSQL 16, Alembic.
 - **Docs**: `http://localhost:8000/docs`
-- **Contrato**: [`../docs/API.md`](../docs/API.md)
+- **Contrato**:
+  [`docs/API.md`](https://github.com/iur-lmh/.github/blob/main/docs/API.md)
 
 ## Inicio rápido
 
